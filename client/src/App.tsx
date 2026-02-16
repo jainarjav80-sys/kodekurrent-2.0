@@ -5,7 +5,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import Home from "@/pages/home";
 import NotFound from "@/pages/not-found";
-import Cursor from "./components/ui/Cursor"
+import Cursor from "@/components/ui/cursor";
 import { AnimatePresence, motion } from "framer-motion";
 import { useLocation } from "wouter";
 
